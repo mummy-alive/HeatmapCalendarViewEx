@@ -5,15 +5,5 @@
     android:layout_marginRight="5.dp"
     android:gravity="center_vertical">
 
-    <TextView
-        android:id="@+id/myTextView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Default Text"/>
-
-    <CalendarView
-        android:id="@+id/calendarView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content" />
-
+    <!--여기다가 heatmapCalendar 넣기-->
 </FrameLayout>
